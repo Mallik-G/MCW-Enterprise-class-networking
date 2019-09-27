@@ -503,7 +503,7 @@ In this task, you will provision the CloudShop application using an ARM template
 
     ![Updating of the Backend pool configuration!](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/image72.png "Backend pool blade")
 
-11. Next, under **Settings on the WGWEBLB Load Balancer blade** select **Health** **Probes**. Choose +**Add**, and use the following information to create a health probe.
+11. Next, under **Settings** on the WGWEBLB Load Balancer blade select **Health Probes**. Choose **+ Add**, and use the following information to create a health probe.
 
     -  Name: **HTTP**
 
